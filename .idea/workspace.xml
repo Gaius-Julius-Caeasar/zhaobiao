@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dccc6890-1c5c-444e-b858-e8ba774a81f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kr3pdCqet5i43UvlL4DMGNb4J0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/untitled1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\zhaobiao\zztender\zztender" />
+      <recent name="F:\zhaobiao\chengezhao\chengezhao" />
+      <recent name="F:\zhaobiao\ebidding\ebidding" />
+      <recent name="F:\zhaobiao\gzqunsheng\gzqunsheng" />
+      <recent name="F:\zhaobiao\gztpc\gztpc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\zhaobiao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.multiprocessing_test">
+    <configuration name="multiprocessing_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhaobiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessing_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhaobiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ebidding/ebidding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ebidding/ebidding/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhaobiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ggzy/ggzy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ggzy/ggzy/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhaobiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gzqunsheng/gzqunsheng" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gzqunsheng/gzqunsheng/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zhaobiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/caigou/caigou" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caigou/caigou/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.multiprocessing_test" />
+        <item itemvalue="Python.run (2)" />
+        <item itemvalue="Python.run (4)" />
+        <item itemvalue="Python.run (3)" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dccc6890-1c5c-444e-b858-e8ba774a81f9" name="Default Changelist" comment="" />
+      <created>1606445066592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606445066592</updated>
+      <workItem from="1606445068907" duration="4070000" />
+      <workItem from="1606790341834" duration="1201000" />
+      <workItem from="1606812192678" duration="2749000" />
+      <workItem from="1606876060311" duration="1725000" />
+      <workItem from="1607303975667" duration="2325000" />
+      <workItem from="1607306479801" duration="399000" />
+      <workItem from="1607307754447" duration="181000" />
+      <workItem from="1607326179154" duration="13265000" />
+      <workItem from="1607396379678" duration="18400000" />
+      <workItem from="1607417824018" duration="5760000" />
+      <workItem from="1607424489934" duration="19642000" />
+      <workItem from="1607503475961" duration="23314000" />
+      <workItem from="1607650414432" duration="82000" />
+      <workItem from="1607650609243" duration="47463000" />
+      <workItem from="1607926414956" duration="1854000" />
+      <workItem from="1607928893983" duration="1285000" />
+      <workItem from="1608081669795" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607421176009">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607421176009" />
+    <state x="2320" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607326347844">
+      <screen x="1600" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2320" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607326347844" />
+    <state x="617" y="44" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1607568656622">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="617" y="44" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607568656622" />
+    <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607402679409">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="530" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607402679409" />
+    <state x="491" y="20" key="#run" timestamp="1607477401027">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="491" y="20" key="#run/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607477401027" />
+    <state x="491" y="20" key="#run_(2)" timestamp="1607926564854">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="491" y="20" key="#run_(2)/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607926564854" />
+    <state x="328" y="217" key="FileChooserDialogImpl" timestamp="1607671952004">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="328" y="217" key="FileChooserDialogImpl/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607671952004" />
+    <state x="1994" y="262" key="FileChooserDialogImpl/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607306795806" />
+    <state width="1557" height="278" key="GridCell.Tab.0.bottom" timestamp="1607928022184">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="278" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607928022184" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607394806368" />
+    <state width="1557" height="278" key="GridCell.Tab.0.center" timestamp="1607928022184">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="278" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607928022184" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607394806368" />
+    <state width="1557" height="278" key="GridCell.Tab.0.left" timestamp="1607928022184">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="278" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607928022184" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607394806368" />
+    <state width="1557" height="278" key="GridCell.Tab.0.right" timestamp="1607928022184">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="278" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607928022184" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607394806368" />
+    <state width="1557" height="273" key="GridCell.Tab.1.bottom" timestamp="1607690245648">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.bottom/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607690245648" />
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607392225669" />
+    <state width="1557" height="273" key="GridCell.Tab.1.center" timestamp="1607690245648">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.center/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607690245648" />
+    <state width="1877" height="345" key="GridCell.Tab.1.center/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607392225668" />
+    <state width="1557" height="273" key="GridCell.Tab.1.left" timestamp="1607690245648">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.left/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607690245648" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607392225668" />
+    <state width="1557" height="273" key="GridCell.Tab.1.right" timestamp="1607690245648">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="273" key="GridCell.Tab.1.right/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607690245648" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607392225668" />
+    <state x="301" y="79" key="SettingsEditor" timestamp="1608081912847">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="79" key="SettingsEditor/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607650745028" />
+    <state x="1961" y="95" key="SettingsEditor/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1606814053722" />
+    <state x="301" y="79" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1608081912847" />
+    <state x="1610" y="102" width="1447" height="718" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607584188385">
+      <screen x="1600" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1610" y="102" width="1447" height="718" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607584188385" />
+    <state x="1692" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607396349743" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1607918171936">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870/1600.0.1920.1050@0.0.1600.870" timestamp="1607918171936" />
+    <state x="2156" y="220" width="807" height="819" key="search.everywhere.popup/0.0.1600.870/1600.0.1920.1050@1600.0.1920.1050" timestamp="1607390476107" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zhaobiao$multiprocessing_test.coverage" NAME="multiprocessing_test Coverage Results" MODIFIED="1607928022169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1607692939698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chengezhao/chengezhao" />
+    <SUITE FILE_PATH="coverage/zhaobiao$ggzy_gz_gov.coverage" NAME="ggzy_gz_gov Coverage Results" MODIFIED="1607304474519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhaobiao/spiders" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run__5_.coverage" NAME="run (5) Coverage Results" MODIFIED="1607588219484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chengezhao/chengezhao" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1607926821856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ebidding/ebidding" />
+    <SUITE FILE_PATH="coverage/zhaobiao$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1607678795797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run.coverage" NAME="run Coverage Results" MODIFIED="1607909849975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/caigou/caigou" />
+    <SUITE FILE_PATH="coverage/zhaobiao$ggzy_spider.coverage" NAME="ggzy_spider Coverage Results" MODIFIED="1607418787940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ggzy/ggzy/spiders" />
+    <SUITE FILE_PATH="coverage/zhaobiao$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1607674183677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Csv_test" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run__4_.coverage" NAME="run (4) Coverage Results" MODIFIED="1607918245278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gzqunsheng/gzqunsheng" />
+    <SUITE FILE_PATH="coverage/zhaobiao$run__3_.coverage" NAME="run (3) Coverage Results" MODIFIED="1607913505155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ggzy/ggzy" />
+    <SUITE FILE_PATH="coverage/zhaobiao$Caigou.coverage" NAME="Caigou Coverage Results" MODIFIED="1607327953068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/caigou/caigou/spiders" />
+  </component>
+</project>

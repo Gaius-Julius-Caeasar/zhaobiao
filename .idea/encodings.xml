@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/caigou/caigou/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chengezhao/chengezhao/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ebidding/ebidding/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ggzy/ggzy/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gzqunsheng/gzqunsheng/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gztpc/gztpc/recruit.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/zztender/zztender/recruit.csv" charset="GBK" />
+  </component>
+</project>
